@@ -10,7 +10,7 @@ Quick intro to microcontrollers using the Arduino Nano Every. No prior electroni
 * Micro-USB data cable
 * Breadboard
 * LED
-* Resistor (~200 ohms)
+* Resistor (~200 ohms and 1k ohms)
 * Push Button
 * Potentiometer (10k ohms)
 * Wires
