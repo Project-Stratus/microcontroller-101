@@ -1,6 +1,7 @@
 // Button controls the LED on/off
 
-// Make sure your wiring matches the pin numbers belowconst int buttonPin = 2;
+// Make sure your wiring matches the pin numbers below
+const int buttonPin = 2;
 const int ledPin = 5;
 
 void setup() {
