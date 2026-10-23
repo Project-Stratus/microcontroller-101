@@ -26,6 +26,8 @@ void loop() {
   unsigned long reaction = millis() - start;
   Serial.print("Reaction time (ms): ");
   Serial.println(reaction);
-
+  
+  digitalWrite(ledPin, LOW);
+  Serial.println("Resetting...");
   delay(5000); // pause before the next round
 }
